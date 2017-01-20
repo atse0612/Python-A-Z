@@ -1,55 +1,55 @@
-Core Programming Principles - OK
+Core Programming Principles - DONE
  
-2. Types of variables 
-3. Using Variables 
-4. Boolean Variables and Operators 
-5. The "While" Loop 
-I6. The "For" Loop 
-7. The "If" statement 
-8. Code indentation in Python 
-9. Section recap 
-10. HOMEWORK: Law of Large Numbers 
+2. Types of variables OK
+3. Using Variables OK
+4. Boolean Variables and Operators OK
+5. The "While" Loop OK
+I6. The "For" Loop OK
+7. The "If" statement OK
+8. Code indentation in Python OK
+9. Section recap OK
+10. HOMEWORK: Law of Large Numbers OK
 
-Fundamentals Of Python - OK
+Fundamentals Of Python - ALMOST DONE(W/ HOMEWORK)
  
-11. What is a List? 
-12. Let's create some lists 
-13. Using the [] brackets 
-14. Slicing 
-15. Tuples in Python 
-16. Functions in Python 
-17. Packages in Python 
-18. Numpy and Arrays in Python 
-19. Slicing Arrays 
-20. Section Recap 
+11. What is a List? OK
+12. Let's create some lists OK
+13. Using the [] brackets OK
+14. Slicing OK
+15. Tuples in Python OK
+16. Functions in Python OK
+17. Packages in Python OK
+18. Numpy and Arrays in Python OK
+19. Slicing Arrays OK
+20. Section Recap OK
 21. HOMEWORK: Coming Soon 
  
-Matrices - OK
+Matrices - ALMOST DONE(W/ HOMEWORK)
  
-22. Project Brief: Basketball Trends 
-23. Matrices 
-24. Building Your First Matrix 
-25. Dictionaries in Python 
-26. Matrix Operations 
-27. Your first visualization 
-28. Expanded Visualization 
-29. Creating Your First Function 
-30. Advanced Function Design 
-31. Basketball Insights 
-32. Section Recap 
+22. Project Brief: Basketball Trends OK
+23. Matrices OK
+24. Building Your First Matrix OK
+25. Dictionaries in Python OK
+26. Matrix Operations OK
+27. Your first visualization OK
+28. Expanded Visualization OK
+29. Creating Your First Function OK
+30. Advanced Function Design OK
+31. Basketball Insights OK
+32. Section Recap OK
 33. HOMEWORK: Coming Soon 
 
 Data Frames - IN PROGRESS
  
-34. Importing data into Python 
-35. Exploring your dataset 
-36. Renaming Columns of a Dataframe 
-37. Subsetting dataframes in Pandas 
-38. Basic operations with a Data Frame 
-39. Filtering a Data Frame 
-40. Using .at() and .iat() (advanced tutorial) 
-41. Introduction to Seaborn 
-42. Visualizing With Seaborn: Part 1 
+34. Importing data into Python OK
+35. Exploring your dataset OK
+36. Renaming Columns of a Dataframe OK
+37. Subsetting dataframes in Pandas OK
+38. Basic operations with a Data Frame OK
+39. Filtering a Data Frame OK
+40. Using .at() and .iat() (advanced tutorial) OK
+41. Introduction to Seaborn OK
+42. Visualizing With Seaborn: Part 1 OK
 43. Keyword Arguments in Python (advanced tutorial) 
 44. Section Recap 
 
